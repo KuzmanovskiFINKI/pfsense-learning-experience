@@ -75,6 +75,7 @@ This repository documents my learning experience with pfSense, an open-source fi
 
 ## Screenshots
 
+![Main Page Screenshot](./main-page.jpg)
 ![DHCP Configuration Screenshot](./DHCP-Configuration/dhcp-settings.jpg)
 ![View Firewall Configuration Screenshot](./Firewall-Rules/screenshots/firewall-rules-allowed.jpg)
 ![View Firewall Configuration Screenshot](./Firewall-Rules/screenshots/firewall-rules-blocked.jpg)
