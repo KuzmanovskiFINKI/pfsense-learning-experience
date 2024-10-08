@@ -66,7 +66,8 @@ This repository documents my learning experience with pfSense, an open-source fi
 - Configured firewall rules to manage traffic between the LAN and WAN interfaces.
 - Created rules to allow and block specific traffic based on IP addresses and services.
 - [View Firewall Rules Documentation](./Firewall-Rules/firewall-rules.md)
-- [View Firewall Configuration Screenshot](./Firewall-Rules/screenshots/)
+- [View Firewall Configuration Screenshot](./Firewall-Rules/screenshots/firewall-rules-allowed.jpg)
+- [View Firewall Configuration Screenshot](./Firewall-Rules/screenshots/firewall-rules-blocked.jpg)
 
 ### 3. Traffic Monitoring
 
@@ -76,7 +77,8 @@ This repository documents my learning experience with pfSense, an open-source fi
 ## Screenshots
 
 ![DHCP Configuration Screenshot](./DHCP-Configuration/dhcp-settings.jpg)
-![Firewall Configuration Screenshot](./Firewall-Rules/screenshots)
+![View Firewall Configuration Screenshot](./Firewall-Rules/screenshots/firewall-rules-allowed.jpg)
+![View Firewall Configuration Screenshot](./Firewall-Rules/screenshots/firewall-rules-blocked.jpg)
 
 ## Lessons Learned
 
